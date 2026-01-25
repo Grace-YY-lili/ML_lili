@@ -1,0 +1,24 @@
+Feature,Importance
+Vertical IP (eV),0.20578402
+Nucleophilicity index (eV),0.15400001
+Hardness (eV),0.089727886
+E-HOMO(N) (eV),0.07582332
+E-HOMO(N+1) (eV),0.048068233
+CDD(min),0.04337531
+S+(max),0.039420303
+S0(max),0.037530076
+Softness ( eV^-1),0.036874652
+Vertical EA (eV),0.035594657
+E-HOMO(N-1) (eV),0.034651276
+Mulliken electronegativity (eV),0.03258932
+S-(max),0.030645454
+Nucleophilicity(max),0.030123837
+E(N) (Hartree),0.029145462
+f0(max),0.026918687
+Electrophilicity index ( eV),0.025689842
+f-(max),0.02403762
+E(N-1) (Hartree),0.0
+E(N+1) (Hartree),0.0
+Chemical potential (eV),0.0
+f+(max),0.0
+Electrophilicity(max),0.0
