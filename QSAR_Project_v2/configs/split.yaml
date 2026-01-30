@@ -1,0 +1,7 @@
+﻿strategy: random
+split_seed: 42
+train: 0.70
+val: 0.15
+test: 0.15
+smiles_col: SMILES
+target_col: log(1O2)

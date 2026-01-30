@@ -1,4 +1,0 @@
-alpha: 0.26470923512739947
-l1_ratio: 0.1
-n_features_in: 128
-n_features_out: 41

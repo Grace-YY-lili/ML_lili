@@ -1,0 +1,21 @@
+﻿# ---- artifacts / outputs ----
+**/results/
+**/notebooks/results/
+**/analysis/
+**/predictions/
+**/models/
+**/archive/
+
+# ---- model binaries ----
+**/*.pkl
+**/*.joblib
+**/*.pt
+**/*.onnx
+
+# ---- processed data (optional) ----
+**/data/processed/
+
+# ---- jupyter ----
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
